@@ -100,7 +100,7 @@ Você deverá criar diversas consultas, com o objetivo de retornar os dados a se
 ![Exercicio 12](Imagens/12.png)
 
 
-## Apremoração
+## Aprimoração
 
 ## Tive a audácia de criar um script em MySQL, baseado no script do projeto que foi escrito no SQL Server. Onde há alguma diferença, como:
 
